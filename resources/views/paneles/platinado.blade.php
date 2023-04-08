@@ -268,7 +268,7 @@
       <div>
          <label for="cantidadP12" class="mb-10 uppercase text-gray-500 font-bold mr-3">Cantidad</label>
       
-         <input type="number" name="cantidadP" id="cantidadP12" value="{{old('cantidadP12')}}" class=" border p-3 rounded-lg 
+         <input type="number" name="cantidadP12" id="cantidadP12" value="{{old('cantidadP12')}}" class=" border p-3 rounded-lg 
          @error('cantidadP12') border-red-500 @enderror">
      </div>
 </div>

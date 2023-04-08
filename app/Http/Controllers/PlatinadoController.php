@@ -40,7 +40,7 @@ class PlatinadoController extends Controller
             'cantidadP11' => $request-> cantidadP11,
             'nombreP12' => $request-> nombreP12,
             'cantidadP12' => $request-> cantidadP12,
-            'observacioes' =>$request->observaciones,
+            'observaciones' =>$request->observaciones,
             'detalles' =>$request->detalles
 
             
